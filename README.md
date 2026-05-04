@@ -125,7 +125,7 @@ Full-featured food delivery platform with restaurant search, filtering, sorting,
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://linktr.ee/husney_24)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husneymobarok827@gmail.com)
 
-**📞 +91 9800589324** | **📧 husneymobarok827@gmail.com**
+**📧 husneymobarok827@gmail.com**
 
 </div>
 
