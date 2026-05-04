@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Hosne Mobarak Faraji
+# 👋 Hey, I'm Husney Mobarak
 
 **Full Stack Developer | MERN Specialist | Building Scalable Web Applications**
 
